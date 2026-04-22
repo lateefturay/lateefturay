@@ -1,8 +1,8 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Hello 👋</h1>
 
 ###
 
-<p align="left">My name is ... and I'm a ..., from ....</p>
+<p align="left">My name is Lateef, and I'm a software developer and UI/UX designer from the United States.</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📸 Creating for [LP Graphics](https://lpgraphics.carrd.co)</p>
+<p align="left">📸 Creating for <a href="https://lpgraphics.carrd.co">LP Graphics</a></p>
 
 ###
 
