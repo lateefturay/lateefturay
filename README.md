@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📸 Creating for <a href="https://lpgraphics.netlify.app">LP Graphics</a>!</p>
+<p align="left">📸 Creating for <a href="https://www.lpgraphics.org">LP Graphics</a>!</p>
 
 ###
 
