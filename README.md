@@ -1,37 +1,47 @@
-<h1 align="left">Hello 👋</h1>
+# Hey, I'm Lateef 👋
 
-###
+**Developer · Designer · Student**
 
-<p align="left">My name is Lateef, and I'm a software developer and UI/UX designer from the United States.</p>
+I'm a student building at the intersection of **technology, design, engineering, and business**.
 
-###
+I enjoy turning ideas into real products — from developing web experiences to designing brands and helping lead student-run organizations.
 
-<h2 align="left">About me</h2>
+### What I'm working on
 
-###
+**[Pathway to Profit](https://pathwaytoprofit.org)**  
+Co-Executive Director  
+Leading the development and operation of a student-led financial literacy organization focused on giving students practical financial knowledge and opportunities.
 
-<p align="left">📸 Creating for <a href="https://www.lpgraphics.org">LP Graphics</a>!</p>
+**[S&5](https://sand5.com)**  
+Developer  
+Building for a student-run peer tutoring platform where students can teach and learn virtually anything — from calculus and coding to basketball and design.
 
-###
+**[LP Graphics](https://lpgraphics.org)**  
+Freelance Graphic Designer  
+Creating branding, social media graphics, logos, and digital content for startups, creators, and athletes.
 
-<h2 align="left">I code with</h2>
+### Tech & tools
 
-###
+**Development**  
+JavaScript · TypeScript · React · Next.js · HTML · CSS · Supabase · Git
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" height="40" alt="aftereffects logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="photoshop logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="40" alt="illustrator logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="wordpress logo"  />
-</div>
+**Design**  
+Adobe Photoshop · Adobe Illustrator · Adobe Premiere Pro · Figma
 
-###
+**Currently exploring**  
+Computer Engineering · Electrical Engineering · Hardware · Full-Stack Development · Product Design
+
+### A little more about me
+
+- ⚡ Interested in computer & electrical engineering
+- 🎨 Adobe Certified in Photoshop and Illustrator
+- 🛠️ I like building projects that combine technical and creative work
+- 🌱 Always learning something new
+
+### Let's connect
+
+[Portfolio](https://turay.me) · [LinkedIn](https://www.linkedin.com/in/lateef-turay/) · [LP Graphics](https://lpgraphics.org)
+
+---
+
+<sub>Building, designing, and learning along the way.</sub>
