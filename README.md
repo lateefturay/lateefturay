@@ -12,7 +12,7 @@ I enjoy turning ideas into real products — from developing web experiences to 
 Co-Executive Director  
 Leading the development and operation of a student-led financial literacy organization focused on giving students practical financial knowledge and opportunities.
 
-**[S&5](https://sand5.com)**  
+**[S&5](https://sandfive.com)**  
 Developer  
 Building for a student-run peer tutoring platform where students can teach and learn virtually anything — from calculus and coding to basketball and design.
 
